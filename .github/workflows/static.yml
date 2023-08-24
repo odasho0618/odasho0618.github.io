@@ -19,3 +19,5 @@ jobs:
         with:
           application-id: <MGO1QsLm8pequ4QMGTmMfA-a>
           environment-id: <FOwe9sPsq5xXPStpzJib9g-e>
+        plan-labels: |
+          GitHub
