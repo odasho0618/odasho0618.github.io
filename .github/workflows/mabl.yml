@@ -20,4 +20,4 @@ jobs:
           application-id: MaNmvU6ymKPpseCvky7wTw-a
           environment-id: FOwe9sPsq5xXPStpzJib9g-e
           plan-labels: |
-            GitHub
+            github
